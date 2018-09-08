@@ -1,0 +1,28 @@
+@font-face {
+    font-family: &#39;Tahoma&#39;;
+    src: url(&#39;https://images.cfyc.com.vn/life/fonts/utm-avo.eot&#39;);
+    src: url(&#39;https://images.cfyc.com.vn/life/fonts/utm-avo.woff&#39;) format(&#39;woff&#39;), url(&#39;https://images.cfyc.com.vn/life/fonts/utm-avo.ttf&#39;) format(&#39;truetype&#39;), url(&#39;https://images.cfyc.com.vn/life/fonts/utm-avo.svg&#39;) format(&#39;svg&#39;);
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: &#39;TahomaBold&#39;;
+    src: url(&#39;https://images.cfyc.com.vn/life/fonts/utm-avobold.eot&#39;);
+    src: url(&#39;https://images.cfyc.com.vn/life/fonts/utm-avobold.woff&#39;) format(&#39;woff&#39;), url(&#39;https://images.cfyc.com.vn/life/fonts/utm-avobold.ttf&#39;) format(&#39;truetype&#39;), url(&#39;https://images.cfyc.com.vn/life/fonts/utm-avobold.svg&#39;) format(&#39;svg&#39;);
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: &#39;TahomaItalic&#39;;
+    src: url(&#39;https://images.cfyc.com.vn/life/fonts/utm-avoitalic.eot&#39;);
+    src: url(&#39;https://images.cfyc.com.vn/life/fonts/utm-avoitalic.woff&#39;) format(&#39;woff&#39;), url(&#39;https://images.cfyc.com.vn/life/fonts/utm-avoitalic.ttf&#39;) format(&#39;truetype&#39;), url(&#39;https://images.cfyc.com.vn/life/fonts/utm-avoitalic.svg&#39;) format(&#39;svg&#39;);
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: &#39;TahomaBoldItalic&#39;;
+    src: url(&#39;https://images.cfyc.com.vn/life/fonts/utm-avobold-italic.eot&#39;);
+    src: url(&#39;https://images.cfyc.com.vn/life/fonts/utm-avobold-italic.woff&#39;) format(&#39;woff&#39;), url(&#39;https://images.cfyc.com.vn/life/fonts/utm-avobold-italic.ttf&#39;) format(&#39;truetype&#39;), url(&#39;https://images.cfyc.com.vn/life/fonts/utm-avobold-italic.svg&#39;) format(&#39;svg&#39;);
+    font-weight: normal;
+    font-style: normal;
+}
